@@ -17,8 +17,8 @@ Much of the code is taken other sources:
  
 ## Usage
 
-*For the NodeMCU* Wire as follows:
-![NODE circuit](./ESP8266_circuit.png).
+*For the NodeMCU* wire the following circuit:
+![NODE circuit](./ESP8266_circuit.png)
 
 
 
