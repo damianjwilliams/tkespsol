@@ -49,7 +49,7 @@ Upload esp32_relay.ino
   
 Connect to ESP32_relay or ESP8266_relay wifi network, as appropriate. Run tkinter script. 
 
-When the tkinter button is pressed, the NODEMCU/HUZZAH32 output becomes high, the  LED on the solenoid circuit board will light and solenoid will open. The NODEMCU/HUZZAH32 input will also become high, be transmitted back to tkinter, and change the color block on the GUI from grey to green, thereby providing feedback on the state of the solenoid. 
+When the tkinter button is pressed, the NODEMCU/HUZZAH32 output pin becomes high, the  LED on the solenoid circuit board will light and solenoid will open. The NODEMCU/HUZZAH32 input pin will also become high, be transmitted back to tkinter, and change the color block on the GUI from grey to green, thereby providing feedback on the state of the solenoid. 
 
 A video showing the HUZZAH32 setup in action can be found at [Youtube](https://youtu.be/UIz5XUCvM2Y). More information ation can be found on my [website](https://www.ephys.org/wireless_comm).
 
