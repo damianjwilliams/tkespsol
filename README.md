@@ -1,5 +1,5 @@
 # tkespsol
-ESP32/ESP8266 control of solenoids using a tkinter GUI
+ESP32/ESP8266 control of solenoids using a tkinter GUI.
 
 Code for switching solenoids wirelessly using an ESP32 or ESP8266 microcontroller controlled using a Python tkinter GUI.  A soft AP configuration is used so a router is not needed. 
 
@@ -8,11 +8,11 @@ Much of the code is taken other sources:
 
 
 ## Requirements
-- Microcontrollers -  HUZZAH32 – ESP32 Feather Board from [Adafruit](https://www.adafruit.com/product/3405) or ESP8266 NodeMCU 0.9 (ESP-12 Module),  
+- Microcontrollers -  HUZZAH32 – ESP32 Feather Board from [Adafruit](https://www.adafruit.com/product/3405) or ESP8266 NodeMCU 0.9 (ESP-12 Module), from e.g. [Amazon](https://www.amazon.com/HiLetgo-Internet-Development-Wireless-Micropython/dp/B010O1G1ES). 
 
 - MOSFET - FQP30N06L from [sparkfun](https://www.sparkfun.com/products/10213). A MOSFET with a gate voltage that is suitable for the 3.3 V output of the microcontroller.
 
-- The 24 V solenoid valves are from Lee https://www.theleeco.com/products/electro-fluidic-systems/solenoid-valves/isolation-valves/lfv-series-solenoid-valves/062-minstac-port-style/ model LFVA2410120H.
+- The 24 V solenoid valves are from [Lee](https://www.theleeco.com/products/electro-fluidic-systems/solenoid-valves/isolation-valves/lfv-series-solenoid-valves/062-minstac-port-style/) model LFVA2410120H.
 
  
 ## Usage
