@@ -8,7 +8,7 @@ Much of the code is taken other sources:
 
 
 ## Requirements
-- Microcontrollers -  HUZZAH32 – ESP32 Feather Board from [Adafruit](https://www.adafruit.com/product/3405) or ESP8266 NodeMCU 0.9 (ESP-12 Module), from e.g. [Amazon](https://www.amazon.com/HiLetgo-Internet-Development-Wireless-Micropython/dp/B010O1G1ES). 
+- Microcontrollers -  HUZZAH32 – ESP32 Feather Board from [Adafruit](https://www.adafruit.com/product/3405) or ESP8266 NodeMCU 0.9 (ESP-12 Module), from e.g. [Amazon](https://www.amazon.com/HiLetgo-Internet-Development-Wireless-Micropython/dp/B010O1G1ES). I found the wifi strength and connection reliability to be significantly better with the HUZZAH32.
 
 - MOSFET - FQP30N06L from [sparkfun](https://www.sparkfun.com/products/10213). A MOSFET with a gate voltage that is suitable for the 3.3 V output of the microcontroller.
 
